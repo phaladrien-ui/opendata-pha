@@ -1,0 +1,10 @@
+{
+    "nom": "Infrastructures & Urbanisme",
+    "description": "Sources de données sur les infrastructures en Afrique : transports, routes, ports, aéroports, logement, urbanisation, eau, assainissement.",
+    "total_sources": 21,
+    "statut": "actif",
+    "responsable": null,
+    "date_creation": "2026-03-18",
+    "derniere_mise_a_jour": "2026-03-18",
+    "tags": ["infrastructures", "transports", "routes", "ports", "aéroports", "logement", "urbanisme", "villes", "eau", "assainissement"]
+  }

@@ -1,0 +1,253 @@
+{
+    "sources": {
+      "DEMO-INT-UNPD-001": {
+        "nom_source": "UN Population Division - World Population Prospects",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Global / Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Biennal",
+        "url_principale": "https://population.un.org/wpp/",
+        "description_courte": "Projections officielles de population (totale, par âge, sexe, fertilité, mortalité, migration) de 1950 à 2100, harmonisées pour tous les pays africains."
+      },
+      "DEMO-INT-UNFPA-001": {
+        "nom_source": "UNFPA World Population Dashboard",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain / Global",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.unfpa.org/data/world-population-dashboard",
+        "description_courte": "Tableaux de bord interactifs sur fécondité, mortalité, santé reproductive, urbanisation et dividend démographique par pays et région."
+      },
+      "DEMO-INT-WB-001": {
+        "nom_source": "World Bank Population Indicators (WDI)",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Global / Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+        "description_courte": "Séries temporelles harmonisées : population totale, croissance, densité, pourcentage urbain/rural, âge médian et structure par âge."
+      },
+      "DEMO-INT-AFDB-001": {
+        "nom_source": "AfDB Open Data for Africa - Demographic Indicators",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel / Mensuel",
+        "url_principale": "https://opendataforafrica.org/",
+        "description_courte": "Indicateurs démographiques, urbanisation, migration et recensements pour tous les pays africains."
+      },
+      "DEMO-INT-UNECA-001": {
+        "nom_source": "UNECA African Statistical Yearbook",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.uneca.org/publications/african-statistical-yearbook",
+        "description_courte": "Annuaire statistique officiel incluant population, vitalité, migration et urbanisation pour l'ensemble du continent."
+      },
+      "DEMO-INT-IOM-001": {
+        "nom_source": "IOM Migration Data Portal Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Irrégulier",
+        "url_principale": "https://www.migrationdataportal.org/africa",
+        "description_courte": "Données détaillées sur migrations internes, internationales, réfugiés et déplacements forcés en Afrique."
+      },
+      "DEMO-INT-UNHCR-001": {
+        "nom_source": "UNHCR Refugee Data Finder",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Mensuel / Annuel",
+        "url_principale": "https://www.unhcr.org/refugee-statistics/",
+        "description_courte": "Statistiques officielles sur réfugiés, demandeurs d'asile et personnes déplacées internes en Afrique."
+      },
+      "DEMO-INT-AFDB-AIH-001": {
+        "nom_source": "Africa Information Highway (AfDB)",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel / Mensuel",
+        "url_principale": "https://dataportal.opendataforafrica.org/",
+        "description_courte": "Plateforme panafricaine agrégeant indicateurs démographiques, santé et éducation par pays."
+      },
+      "DEMO-INT-UNECA-ECA-001": {
+        "nom_source": "ECAStats (UNECA)",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://ecastats.uneca.org/data/",
+        "description_courte": "Profils démographiques par pays avec indicateurs ODD et Agenda 2063."
+      },
+      "DEMO-INT-AFRISTAT-001": {
+        "nom_source": "AFRISTAT Open Data Portal",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique Subsaharienne",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.afristat.org/open-data-portal-odp-afristat/",
+        "description_courte": "Séries statistiques harmonisées sur population pour les pays de la zone franc et Afrique subsaharienne."
+      },
+      "DEMO-INT-ILOSTAT-001": {
+        "nom_source": "ILOSTAT – ILO Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://ilostat.ilo.org/fr/data/africa/",
+        "description_courte": "Données sur la population active, emploi, chômage, pyramide des âges par secteur économique."
+      },
+      "DEMO-INT-UNICEF-001": {
+        "nom_source": "UNICEF Data",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://data.unicef.org/",
+        "description_courte": "Statistiques sur les enfants, mortalité infantile, nutrition, éducation et jeunesse en Afrique."
+      },
+      "DEMO-RES-WORLDPOP-001": {
+        "nom_source": "WorldPop / Flowminder",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.worldpop.org/",
+        "description_courte": "Grilles de population haute résolution (100m), estimations dynamiques par satellite et données mobiles."
+      },
+      "DEMO-RES-APHRC-001": {
+        "nom_source": "APHRC Microdata Portal",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Panafricain / Subsaharienne",
+        "fiabilite_score": 5,
+        "frequence": "Projet",
+        "url_principale": "https://aphrc.org/microdata-portal",
+        "description_courte": "Microdonnées longitudinales sur population, urbanisation, santé et migration en Afrique subsaharienne."
+      },
+      "DEMO-RES-INDEPTH-001": {
+        "nom_source": "INDEPTH Network HDSS",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Multi-pays Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Continue",
+        "url_principale": "https://www.indepth-network.org/",
+        "description_courte": "Surveillance démographique longitudinale sur plusieurs sites en Afrique."
+      },
+      "DEMO-RES-DHS-001": {
+        "nom_source": "DHS Program (Demographic and Health Surveys)",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Multi-pays Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Projet / Irrégulier",
+        "url_principale": "https://dhsprogram.com/",
+        "description_courte": "Enquêtes ménages détaillées sur santé, démographie, fécondité et mortalité (microdonnées)."
+      },
+      "DEMO-RES-DATAFIRST-001": {
+        "nom_source": "DataFirst – University of Cape Town",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique du Sud / Multi-pays",
+        "fiabilite_score": 5,
+        "frequence": "Projet",
+        "url_principale": "https://www.datafirst.uct.ac.za/dataportal/",
+        "description_courte": "Dépôt centralisé de microdonnées de recensements et enquêtes africaines."
+      },
+      "DEMO-ONG-PRB-001": {
+        "nom_source": "Population Reference Bureau (PRB)",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique / Global",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.prb.org/",
+        "description_courte": "Fiches synthétiques et indicateurs clés sur population, jeunesse et urbanisation en Afrique."
+      },
+      "DEMO-ONG-MOI-001": {
+        "nom_source": "Mo Ibrahim Foundation",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://mo.ibrahim.foundation/",
+        "description_courte": "Indices de gouvernance incluant composantes démographiques et dynamiques de population."
+      },
+      "DEMO-PRI-GSMA-001": {
+        "nom_source": "GSMA Mobile Economy Africa",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.gsma.com/mobileeconomy/",
+        "description_courte": "Impact économique du mobile, estimations de population connectée et mobilité urbaine."
+      },
+      "DEMO-PRI-DATUM-001": {
+        "nom_source": "Datum Africa",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Irrégulier",
+        "url_principale": "https://datum.africa/",
+        "description_courte": "Indexation et découverte de datasets ouverts sur démographie et population en Afrique."
+      },
+      "DEMO-PRI-ORANGE-001": {
+        "nom_source": "Orange Data for Development",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique (multi-pays)",
+        "fiabilite_score": 4,
+        "frequence": "Projet",
+        "url_principale": "https://www.orange.com/en/data-for-development",
+        "description_courte": "Rapports anonymisés sur mobilité et estimations de population via données mobiles."
+      },
+      "DEMO-INST-ZAF-001": {
+        "nom_source": "Statistics South Africa",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Afrique du Sud (référence)",
+        "fiabilite_score": 5,
+        "frequence": "Annuel / Quinquennal",
+        "url_principale": "https://www.statssa.gov.za/"
+      },
+      "DEMO-INST-NGA-001": {
+        "nom_source": "National Population Commission Nigeria",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Nigeria (référence)",
+        "fiabilite_score": 4,
+        "frequence": "Décennal",
+        "url_principale": "https://nationalpopulation.gov.ng/"
+      },
+      "DEMO-RES-IHME-001": {
+        "nom_source": "IHME Global Burden of Disease - Population Estimates",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Global / Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.healthdata.org/gbd",
+        "description_courte": "Estimations ajustées de population, mortalité et espérance de vie par âge et sexe."
+      },
+      "DEMO-ONG-POPCOUNCIL-001": {
+        "nom_source": "Population Council Africa",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Panafricain / Subsaharienne",
+        "fiabilite_score": 4,
+        "frequence": "Projet / Annuel",
+        "url_principale": "https://popcouncil.org/",
+        "description_courte": "Études sur population, genre, jeunesse et santé reproductive en Afrique."
+      },
+      "DEMO-INT-AUC-001": {
+        "nom_source": "African Union Commission - Statistics",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://au.int/en/documents"
+      },
+      "DEMO-RES-CODESRIA-001": {
+        "nom_source": "CODESRIA Demographic Studies",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Projet",
+        "url_principale": "https://codesria.org/",
+        "description_courte": "Publications sur dynamiques population, migration et urbanisation en Afrique."
+      }
+    }
+  }

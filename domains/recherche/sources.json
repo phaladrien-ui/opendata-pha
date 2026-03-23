@@ -1,0 +1,238 @@
+{
+    "sources": {
+      "RECH-INT-UNESCO-SCI-001": {
+        "nom_source": "UNESCO Institute for Statistics - Science & Technology - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "http://uis.unesco.org/en/topic/science-technology",
+        "description_courte": "Statistiques sur la science, la technologie et l'innovation en Afrique : chercheurs, R&D, publications, brevets."
+      },
+      "RECH-INT-WIPO-001": {
+        "nom_source": "WIPO - World Intellectual Property Organization - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.wipo.int/",
+        "description_courte": "Données sur la propriété intellectuelle en Afrique : brevets, marques, designs, innovation."
+      },
+      "RECH-INT-WIPO-GII-001": {
+        "nom_source": "WIPO - Global Innovation Index - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.globalinnovationindex.org/",
+        "description_courte": "Indice mondial de l'innovation avec classement et données détaillées pour les pays africains."
+      },
+      "RECH-INT-WB-KEI-001": {
+        "nom_source": "World Bank - Knowledge Economy Index - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.worldbank.org/",
+        "description_courte": "Indicateurs de l'économie de la connaissance en Afrique : éducation, innovation, TIC."
+      },
+      "RECH-INT-AFDB-STI-001": {
+        "nom_source": "AfDB - Science, Technology and Innovation Data",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.afdb.org/",
+        "description_courte": "Données sur les politiques et investissements en science et innovation en Afrique."
+      },
+      "RECH-INT-UNECA-STI-001": {
+        "nom_source": "UNECA - Science, Technology and Innovation Data",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.uneca.org/",
+        "description_courte": "Statistiques sur la science, technologie et innovation en Afrique."
+      },
+      "RECH-INT-AUC-STI-001": {
+        "nom_source": "African Union - STI Data",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://au.int/en/documents",
+        "description_courte": "Données sur les politiques et programmes de science, technologie et innovation de l'Union Africaine."
+      },
+      "RECH-RES-SCIMAGO-001": {
+        "nom_source": "Scimago Journal & Country Rank - Africa",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.scimagojr.com/countryrank.php?region=Africa",
+        "description_courte": "Classement des pays africains par production scientifique, citations, publications."
+      },
+      "RECH-RES-NATURE-001": {
+        "nom_source": "Nature Index - Africa",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.natureindex.com/",
+        "description_courte": "Contributions des institutions africaines aux publications scientifiques de haut niveau."
+      },
+      "RECH-RES-ADS-001": {
+        "nom_source": "African Doctoral Dissertation - Research Data",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique",
+        "fiabilite_score": 3,
+        "frequence": "Annuel",
+        "url_principale": "https://www.africandissertations.com/",
+        "description_courte": "Base de données des thèses et recherches doctorales africaines."
+      },
+      "RECH-RES-AJOL-001": {
+        "nom_source": "AJOL - African Journals Online",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Continue",
+        "url_principale": "https://www.ajol.info/",
+        "description_courte": "Plateforme de revues scientifiques africaines avec accès aux publications et données de recherche."
+      },
+      "RECH-RES-CABI-001": {
+        "nom_source": "CABI - Research Data Africa",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.cabi.org/",
+        "description_courte": "Recherche agricole et environnementale avec focus sur l'Afrique."
+      },
+      "RECH-RES-IDRC-001": {
+        "nom_source": "IDRC - International Development Research Centre - Africa",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.idrc.ca/",
+        "description_courte": "Données et rapports de recherche sur le développement en Afrique."
+      },
+      "RECH-ONG-AAS-001": {
+        "nom_source": "AAS - African Academy of Sciences",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.aasciences.africa/",
+        "description_courte": "Données sur la recherche, les scientifiques et les programmes de l'Académie Africaine des Sciences."
+      },
+      "RECH-ONG-AAU-001": {
+        "nom_source": "AAU - Association of African Universities",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 3,
+        "frequence": "Annuel",
+        "url_principale": "https://aau.org/",
+        "description_courte": "Données sur les universités africaines, la recherche et l'enseignement supérieur."
+      },
+      "RECH-ONG-ROSTA-001": {
+        "nom_source": "ROSTA - Regional Office for Science and Technology in Africa",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique",
+        "fiabilite_score": 3,
+        "frequence": "Annuel",
+        "url_principale": "https://en.unesco.org/",
+        "description_courte": "Données sur les programmes scientifiques et technologiques en Afrique."
+      },
+      "RECH-INST-ZAF-001": {
+        "nom_source": "South Africa - Research Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Afrique du Sud",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.statssa.gov.za/",
+        "description_courte": "Statistiques sur la recherche et développement en Afrique du Sud : dépenses R&D, chercheurs."
+      },
+      "RECH-INST-NRF-001": {
+        "nom_source": "NRF - National Research Foundation - South Africa",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Afrique du Sud",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.nrf.ac.za/",
+        "description_courte": "Données sur le financement de la recherche et les programmes en Afrique du Sud."
+      },
+      "RECH-INST-CSIR-001": {
+        "nom_source": "CSIR - Council for Scientific and Industrial Research - South Africa",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Afrique du Sud",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.csir.co.za/",
+        "description_courte": "Recherche et données scientifiques et industrielles d'Afrique du Sud."
+      },
+      "RECH-INST-EGY-001": {
+        "nom_source": "Egypt - Research Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Égypte (Afrique du Nord)",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.capmas.gov.eg/",
+        "description_courte": "Statistiques sur la recherche et développement en Égypte."
+      },
+      "RECH-INST-MAR-001": {
+        "nom_source": "Maroc - Research Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Maroc (Afrique du Nord)",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.hcp.ma/",
+        "description_courte": "Données sur la recherche et développement au Maroc."
+      },
+      "RECH-INST-NGA-001": {
+        "nom_source": "Nigeria - Research Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Nigeria",
+        "fiabilite_score": 3,
+        "frequence": "Annuel",
+        "url_principale": "https://nigerianstat.gov.ng/",
+        "description_courte": "Statistiques sur la recherche et développement au Nigeria."
+      },
+      "RECH-PRI-CLARIVATE-001": {
+        "nom_source": "Clarivate - Web of Science - Africa",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://clarivate.com/",
+        "description_courte": "Données sur les publications scientifiques et les citations des chercheurs africains."
+      },
+      "RECH-PRI-ELSEVIER-001": {
+        "nom_source": "Elsevier - Scopus - Africa Research",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.elsevier.com/",
+        "description_courte": "Données sur la production scientifique et les collaborations de recherche en Afrique."
+      },
+      "RECH-PRI-DIMENSIONS-001": {
+        "nom_source": "Dimensions - Research Data Africa",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Continue",
+        "url_principale": "https://www.dimensions.ai/",
+        "description_courte": "Base de données de publications, brevets et grants pour la recherche africaine."
+      },
+      "RECH-PRI-RESEARCHGATE-001": {
+        "nom_source": "ResearchGate - Africa Research Network",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 3,
+        "frequence": "Continue",
+        "url_principale": "https://www.researchgate.net/",
+        "description_courte": "Réseau social pour chercheurs avec données sur les collaborations et publications africaines."
+      }
+    }
+  }

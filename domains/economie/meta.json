@@ -1,0 +1,10 @@
+{
+    "nom": "Économie & Finance",
+    "description": "Sources de données sur la croissance économique, le PIB, l'inflation, la dette, les investissements, le commerce et les finances publiques en Afrique.",
+    "total_sources": 5,
+    "statut": "actif",
+    "responsable": null,
+    "date_creation": "2026-03-18",
+    "derniere_mise_a_jour": "2026-03-18",
+    "tags": ["PIB", "croissance", "inflation", "dette", "commerce", "investissement", "finances"]
+  }

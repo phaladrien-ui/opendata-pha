@@ -1,0 +1,10 @@
+{
+    "nom": "Transport & Logistique",
+    "description": "Sources de données sur les transports et la logistique en Afrique : routes, chemins de fer, ports, aéroports, corridors, fret, logistique, performance logistique.",
+    "total_sources": 28,
+    "statut": "actif",
+    "responsable": null,
+    "date_creation": "2026-03-18",
+    "derniere_mise_a_jour": "2026-03-18",
+    "tags": ["transport", "logistique", "routes", "chemins de fer", "ports", "aéroports", "corridors", "fret", "LPI"]
+  }

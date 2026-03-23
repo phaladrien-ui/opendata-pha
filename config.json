@@ -1,0 +1,35 @@
+{
+    "project": {
+      "name": "Africa Data Sources",
+      "version": "1.0.0",
+      "description": "Méta-base des sources de données africaines",
+      "author": "Phal",
+      "last_update": "2026-03-18"
+    },
+    "domains": [
+      "demographie",
+      "economie",
+      "sante",
+      "education",
+      "agriculture",
+      "infrastructures",
+      "energie",
+      "telecom",
+      "gouvernance",
+      "transport",
+      "recherche",
+      "social"
+    ],
+    "source_types": [
+      "Organisations_Internationales",
+      "Universites_Recherche",
+      "Institutions_Officielles",
+      "ONG_Fondations",
+      "Secteur_Prive"
+    ],
+    "scraper": {
+      "max_sources_per_domain": 10,
+      "timeout": 15,
+      "delay_between_requests": 1.5
+    }
+  }

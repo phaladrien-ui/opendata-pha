@@ -1,0 +1,166 @@
+{
+    "sources": {
+      "EDUC-INT-UNESCO-001": {
+        "nom_source": "UNESCO Institute for Statistics - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "http://uis.unesco.org/",
+        "description_courte": "Statistiques complètes sur l'éducation en Afrique : taux de scolarisation, alphabétisation, réussite scolaire, genre et éducation."
+      },
+      "EDUC-INT-UNESCO-GEM-001": {
+        "nom_source": "UNESCO Global Education Monitoring Report - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://gem-report-2020.unesco.org/",
+        "description_courte": "Rapports et données sur les progrès de l'éducation en Afrique, objectifs ODD4, qualité et équité."
+      },
+      "EDUC-INT-WB-EDU-001": {
+        "nom_source": "World Bank Education Statistics - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://datatopics.worldbank.org/education/",
+        "description_courte": "Indicateurs éducatifs : dépenses publiques, taux de scolarisation, ratio élèves/enseignant, achèvement scolaire par pays africain."
+      },
+      "EDUC-INT-AFDB-EDU-001": {
+        "nom_source": "AfDB Education Indicators",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.afdb.org/en/knowledge/statistics",
+        "description_courte": "Données éducatives issues des statistiques de la Banque Africaine de Développement."
+      },
+      "EDUC-INT-UNECA-EDU-001": {
+        "nom_source": "UNECA Education Statistics",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://ecastats.uneca.org/data/",
+        "description_courte": "Indicateurs éducatifs intégrés aux Objectifs de Développement Durable pour l'Afrique."
+      },
+      "EDUC-INT-UNICEF-EDU-001": {
+        "nom_source": "UNICEF Education Data - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://data.unicef.org/topic/education/",
+        "description_courte": "Statistiques sur l'éducation des enfants en Afrique : scolarisation, apprentissage, achèvement, inégalités."
+      },
+      "EDUC-INT-ILO-EDU-001": {
+        "nom_source": "ILO Education and Employment Data",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://ilostat.ilo.org/topics/education/",
+        "description_courte": "Lien entre éducation et emploi, taux de chômage par niveau d'éducation en Afrique."
+      },
+      "EDUC-RES-PASEC-001": {
+        "nom_source": "PASEC - Programme d'Analyse des Systèmes Éducatifs",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique francophone",
+        "fiabilite_score": 5,
+        "frequence": "Quinquennal",
+        "url_principale": "https://www.pasec.confemen.org/",
+        "description_courte": "Évaluations standardisées des acquis scolaires dans les pays d'Afrique subsaharienne francophone."
+      },
+      "EDUC-RES-SACMEQ-001": {
+        "nom_source": "SACMEQ - Southern and Eastern Africa Consortium",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique australe et orientale",
+        "fiabilite_score": 5,
+        "frequence": "Quinquennal",
+        "url_principale": "http://www.sacmeq.org/",
+        "description_courte": "Évaluations de la qualité de l'éducation et données sur les acquis scolaires en Afrique australe et orientale."
+      },
+      "EDUC-RES-APHRC-EDU-001": {
+        "nom_source": "APHRC Education Research",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique subsaharienne",
+        "fiabilite_score": 4,
+        "frequence": "Projet",
+        "url_principale": "https://aphrc.org/education/",
+        "description_courte": "Recherche sur l'éducation, l'apprentissage et les inégalités éducatives en Afrique."
+      },
+      "EDUC-ONG-GPE-001": {
+        "nom_source": "Global Partnership for Education - Africa",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.globalpartnership.org/where-we-work/africa",
+        "description_courte": "Données sur les investissements et résultats éducatifs dans les pays partenaires africains."
+      },
+      "EDUC-ONG-ALPHA-001": {
+        "nom_source": "ALPHABETISATION - Données sur l'alphabétisation en Afrique",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique",
+        "fiabilite_score": 3,
+        "frequence": "Irrégulier",
+        "url_principale": "https://www.literacy.org/",
+        "description_courte": "Projets et données sur l'alphabétisation des adultes et des jeunes en Afrique."
+      },
+      "EDUC-INST-ZAF-001": {
+        "nom_source": "Statistics South Africa - Education",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Afrique du Sud",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.statssa.gov.za/?page_id=735",
+        "description_courte": "Statistiques officielles sur l'éducation en Afrique du Sud : scolarisation, réussite, dépenses."
+      },
+      "EDUC-INST-KEN-001": {
+        "nom_source": "Kenya Education Management Information System",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Kenya",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.education.go.ke/",
+        "description_courte": "Données éducatives officielles du Kenya : inscriptions, examens, ressources."
+      },
+      "EDUC-INST-NGA-001": {
+        "nom_source": "Nigeria Education Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Nigeria",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://education.gov.ng/",
+        "description_courte": "Statistiques officielles sur l'éducation au Nigeria : taux de scolarisation, universités."
+      },
+      "EDUC-INST-EGY-001": {
+        "nom_source": "Egypt Education Statistics",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Égypte",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.capmas.gov.eg/",
+        "description_courte": "Données éducatives de l'Égypte, couverture de l'Afrique du Nord."
+      },
+      "EDUC-PRI-BRIDGE-001": {
+        "nom_source": "Bridge International Academies - Learning Data",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique (Kenya, Nigeria, Ouganda)",
+        "fiabilite_score": 3,
+        "frequence": "Annuel",
+        "url_principale": "https://www.bridgeinternationalacademies.com/",
+        "description_courte": "Données sur l'apprentissage et les performances dans les écoles privées à faible coût en Afrique."
+      },
+      "EDUC-PRI-OMIDYAR-001": {
+        "nom_source": "Omidyar Network Education Data",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 3,
+        "frequence": "Irrégulier",
+        "url_principale": "https://omidyar.com/",
+        "description_courte": "Investissements et rapports sur l'éducation et la technologie éducative en Afrique."
+      }
+    }
+  }

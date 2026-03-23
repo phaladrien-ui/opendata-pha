@@ -1,0 +1,265 @@
+{
+    "sources": {
+      "TRAN-INT-WB-LPI-001": {
+        "nom_source": "World Bank - Logistics Performance Index - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Biennal",
+        "url_principale": "https://lpi.worldbank.org/",
+        "description_courte": "Indice de performance logistique pour les pays africains : douanes, infrastructures, fret, compétence logistique, traçabilité, délais."
+      },
+      "TRAN-INT-WB-AICD-001": {
+        "nom_source": "World Bank - Africa Infrastructure Country Diagnostic - Transport",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Quinquennal",
+        "url_principale": "https://www.infrastructureafrica.org/",
+        "description_courte": "Évaluation des infrastructures de transport en Afrique : routes, chemins de fer, ports, aéroports."
+      },
+      "TRAN-INT-AFDB-PIDA-001": {
+        "nom_source": "AfDB - PIDA - Transport Projects",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.au-pida.org/",
+        "description_courte": "Suivi des projets d'infrastructures de transport prioritaires en Afrique : corridors, routes transafricaines."
+      },
+      "TRAN-INT-AFDB-AITD-001": {
+        "nom_source": "AfDB - Africa Infrastructure Knowledge Program - Transport",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.afdb.org/",
+        "description_courte": "Données sur les infrastructures de transport en Afrique."
+      },
+      "TRAN-INT-UNECA-TRAN-001": {
+        "nom_source": "UNECA - Transport Statistics",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.uneca.org/",
+        "description_courte": "Statistiques sur les transports et l'intégration régionale en Afrique."
+      },
+      "TRAN-INT-ICAO-001": {
+        "nom_source": "ICAO - Air Transport Data - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.icao.int/",
+        "description_courte": "Statistiques du transport aérien en Afrique : trafic passagers, fret, sécurité, flottes."
+      },
+      "TRAN-INT-IATA-001": {
+        "nom_source": "IATA - Air Transport Data - Africa",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.iata.org/",
+        "description_courte": "Données sur le transport aérien en Afrique : trafic, routes, compagnies."
+      },
+      "TRAN-INT-IMO-001": {
+        "nom_source": "IMO - Maritime Data - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.imo.org/",
+        "description_courte": "Données sur le transport maritime et les ports en Afrique."
+      },
+      "TRAN-INT-UNCTAD-MAR-001": {
+        "nom_source": "UNCTAD - Maritime Transport Data - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://unctad.org/topic/transport-and-trade-logistics",
+        "description_courte": "Statistiques sur le transport maritime, la flotte, les ports et le commerce en Afrique."
+      },
+      "TRAN-INT-UIC-001": {
+        "nom_source": "UIC - International Union of Railways - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://uic.org/",
+        "description_courte": "Données sur les chemins de fer en Afrique : réseaux, trafic, projets."
+      },
+      "TRAN-INT-AUC-TRAN-001": {
+        "nom_source": "African Union - Transport Data",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://au.int/en/documents",
+        "description_courte": "Données sur les politiques de transport et l'intégration régionale en Afrique."
+      },
+      "TRAN-INT-COMESA-001": {
+        "nom_source": "COMESA - Transport Data",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique orientale et australe",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.comesa.int/",
+        "description_courte": "Données sur les transports et les corridors dans la région COMESA."
+      },
+      "TRAN-INT-ECOWAS-001": {
+        "nom_source": "ECOWAS - Transport Data",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique de l'Ouest",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.ecowas.int/",
+        "description_courte": "Données sur les transports et les infrastructures dans la région CEDEAO."
+      },
+      "TRAN-INT-EAC-001": {
+        "nom_source": "EAC - Transport Data",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique de l'Est",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.eac.int/",
+        "description_courte": "Données sur les transports et les corridors dans la région EAC."
+      },
+      "TRAN-INT-SADC-001": {
+        "nom_source": "SADC - Transport Data",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique australe",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.sadc.int/",
+        "description_courte": "Données sur les transports et les infrastructures dans la région SADC."
+      },
+      "TRAN-INT-IGAD-001": {
+        "nom_source": "IGAD - Transport Data",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Corne de l'Afrique",
+        "fiabilite_score": 3,
+        "frequence": "Annuel",
+        "url_principale": "https://igad.int/",
+        "description_courte": "Données sur les transports et les corridors dans la région IGAD."
+      },
+      "TRAN-RES-SSATP-001": {
+        "nom_source": "SSATP - Africa Transport Policy Program",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.ssatp.org/",
+        "description_courte": "Recherche et données sur les politiques de transport en Afrique : routes, corridors, transport urbain."
+      },
+      "TRAN-RES-VREF-001": {
+        "nom_source": "Volvo Research Foundation - Transport Data Africa",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique",
+        "fiabilite_score": 3,
+        "frequence": "Projet",
+        "url_principale": "https://www.vref.se/",
+        "description_courte": "Recherche sur les transports durables et la mobilité en Afrique."
+      },
+      "TRAN-RES-ITF-001": {
+        "nom_source": "ITF - International Transport Forum - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.itf-oecd.org/",
+        "description_courte": "Données et analyses des transports en Afrique."
+      },
+      "TRAN-INST-ZAF-001": {
+        "nom_source": "Statistics South Africa - Transport",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Afrique du Sud",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.statssa.gov.za/",
+        "description_courte": "Statistiques sur les transports en Afrique du Sud : fret, passagers, véhicules, accidents."
+      },
+      "TRAN-INST-KEN-001": {
+        "nom_source": "Kenya - Transport Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Kenya",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.knbs.or.ke/",
+        "description_courte": "Données sur les transports au Kenya : routes, rail, port de Mombasa."
+      },
+      "TRAN-INST-NGA-001": {
+        "nom_source": "Nigeria - Transport Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Nigeria",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://nigerianstat.gov.ng/",
+        "description_courte": "Statistiques sur les transports au Nigeria : routes, ports, aviation."
+      },
+      "TRAN-INST-EGY-001": {
+        "nom_source": "Egypt - Transport Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Égypte (Afrique du Nord)",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.capmas.gov.eg/",
+        "description_courte": "Données sur les transports en Égypte : canal de Suez, ports, routes."
+      },
+      "TRAN-INST-MAR-001": {
+        "nom_source": "Maroc - Transport Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Maroc (Afrique du Nord)",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.equipement.gov.ma/",
+        "description_courte": "Statistiques sur les transports au Maroc : routes, ports, aéroports, rail."
+      },
+      "TRAN-PRI-DPWORLD-001": {
+        "nom_source": "DP World - Port Data Africa",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 3,
+        "frequence": "Annuel",
+        "url_principale": "https://www.dpworld.com/",
+        "description_courte": "Données sur les opérations portuaires de DP World en Afrique."
+      },
+      "TRAN-PRI-APMT-001": {
+        "nom_source": "APM Terminals - Africa Port Data",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 3,
+        "frequence": "Annuel",
+        "url_principale": "https://www.apmterminals.com/",
+        "description_courte": "Données sur les opérations portuaires d'APM Terminals en Afrique."
+      },
+      "TRAN-PRI-BOLLORE-001": {
+        "nom_source": "Bolloré Transport & Logistics - Africa",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 3,
+        "frequence": "Annuel",
+        "url_principale": "https://www.bollore-transport-logistics.com/",
+        "description_courte": "Données sur les opérations de transport et logistique de Bolloré en Afrique."
+      },
+      "TRAN-PRI-MAERSK-001": {
+        "nom_source": "Maersk - Shipping Data Africa",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 3,
+        "frequence": "Annuel",
+        "url_principale": "https://www.maersk.com/",
+        "description_courte": "Données sur le transport maritime et la logistique de Maersk en Afrique."
+      },
+      "TRAN-PRI-CMA-001": {
+        "nom_source": "CMA CGM - Shipping Data Africa",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 3,
+        "frequence": "Annuel",
+        "url_principale": "https://www.cma-cgm.com/",
+        "description_courte": "Données sur le transport maritime de CMA CGM en Afrique."
+      }
+    }
+  }

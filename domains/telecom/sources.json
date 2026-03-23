@@ -1,0 +1,238 @@
+{
+    "sources": {
+      "TELC-INT-ITU-001": {
+        "nom_source": "ITU - International Telecommunication Union - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx",
+        "description_courte": "Statistiques officielles des télécommunications en Afrique : pénétration mobile, internet, bande passante, infrastructures."
+      },
+      "TELC-INT-ITU-IND-001": {
+        "nom_source": "ITU - ICT Indicators - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx",
+        "description_courte": "Indicateurs clés des TIC en Afrique : abonnements mobile, internet, prix, couverture."
+      },
+      "TELC-INT-GSMA-001": {
+        "nom_source": "GSMA - Mobile Economy Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.gsma.com/mobileeconomy/",
+        "description_courte": "Rapport annuel sur l'économie mobile en Afrique : adoption, impact économique, emplois, inclusion financière."
+      },
+      "TELC-INT-GSMA-INT-001": {
+        "nom_source": "GSMA Intelligence - Africa Data",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Continue",
+        "url_principale": "https://www.gsmaintelligence.com/",
+        "description_courte": "Données détaillées sur le marché mobile africain : opérateurs, pénétration, données, revenus."
+      },
+      "TELC-INT-WB-TEL-001": {
+        "nom_source": "World Bank - Telecommunications Data Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://data.worldbank.org/topic/infrastructure",
+        "description_courte": "Indicateurs télécoms : abonnements mobile, internet, lignes fixes, large bande."
+      },
+      "TELC-INT-AFDB-TEL-001": {
+        "nom_source": "AfDB - ICT Statistics",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.afdb.org/en/knowledge/statistics",
+        "description_courte": "Données sur les infrastructures TIC et l'accès numérique en Afrique."
+      },
+      "TELC-INT-UNECA-TEL-001": {
+        "nom_source": "UNECA - ICT Indicators",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.uneca.org/",
+        "description_courte": "Indicateurs TIC intégrés aux Objectifs de Développement Durable pour l'Afrique."
+      },
+      "TELC-INT-AF-IXP-001": {
+        "nom_source": "African IXP Association - Internet Data",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 3,
+        "frequence": "Annuel",
+        "url_principale": "https://www.afixp.org/",
+        "description_courte": "Données sur les points d'échange internet (IXP) et l'interconnexion en Afrique."
+      },
+      "TELC-RES-RESEARCH-001": {
+        "nom_source": "Research ICT Africa",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://researchictafrica.net/",
+        "description_courte": "Recherche et données sur les politiques TIC, l'accès, l'accessibilité et l'utilisation en Afrique."
+      },
+      "TELC-RES-AFCHIX-001": {
+        "nom_source": "AfChix - African Women in Tech Data",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique",
+        "fiabilite_score": 3,
+        "frequence": "Projet",
+        "url_principale": "https://www.afchix.org/",
+        "description_courte": "Données sur la participation des femmes dans le secteur technologique en Afrique."
+      },
+      "TELC-RES-OXFORD-001": {
+        "nom_source": "Oxford Internet Institute - Africa",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Projet",
+        "url_principale": "https://www.oii.ox.ac.uk/",
+        "description_courte": "Recherche sur l'impact d'internet et du numérique en Afrique."
+      },
+      "TELC-ONG-AFNOG-001": {
+        "nom_source": "AFNOG - African Network Operators Group",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique",
+        "fiabilite_score": 3,
+        "frequence": "Annuel",
+        "url_principale": "https://www.afnog.org/",
+        "description_courte": "Données techniques sur les réseaux et l'infrastructure internet en Afrique."
+      },
+      "TELC-ONG-ISOC-001": {
+        "nom_source": "Internet Society - Africa",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.internetsociety.org/regions/africa/",
+        "description_courte": "Données sur le développement d'internet, la connectivité et les politiques en Afrique."
+      },
+      "TELC-ONG-APC-001": {
+        "nom_source": "APC - Association for Progressive Communications - Africa",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique",
+        "fiabilite_score": 3,
+        "frequence": "Annuel",
+        "url_principale": "https://www.apc.org/",
+        "description_courte": "Recherche et données sur l'accès à internet et les droits numériques en Afrique."
+      },
+      "TELC-INST-ZAF-001": {
+        "nom_source": "ICASA - South Africa Telecommunications Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Afrique du Sud",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.icasa.org.za/",
+        "description_courte": "Statistiques officielles des télécommunications en Afrique du Sud : opérateurs, pénétration, revenus."
+      },
+      "TELC-INST-KEN-001": {
+        "nom_source": "CAK - Communications Authority of Kenya",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Kenya",
+        "fiabilite_score": 4,
+        "frequence": "Trimestriel",
+        "url_principale": "https://www.ca.go.ke/",
+        "description_courte": "Données sur le secteur des télécommunications au Kenya : mobile, internet, données."
+      },
+      "TELC-INST-NGA-001": {
+        "nom_source": "NCC - Nigerian Communications Commission",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Nigeria",
+        "fiabilite_score": 4,
+        "frequence": "Mensuel",
+        "url_principale": "https://www.ncc.gov.ng/",
+        "description_courte": "Statistiques mensuelles des télécommunications au Nigeria : abonnements, trafic, données."
+      },
+      "TELC-INST-EGY-001": {
+        "nom_source": "Egypt - Telecommunications Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Égypte (Afrique du Nord)",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.tra.gov.eg/",
+        "description_courte": "Données sur le secteur des télécommunications en Égypte."
+      },
+      "TELC-INST-MAR-001": {
+        "nom_source": "ANRT - Maroc Télécom Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Maroc (Afrique du Nord)",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.anrt.ma/",
+        "description_courte": "Statistiques officielles des télécommunications au Maroc."
+      },
+      "TELC-PRI-MTN-001": {
+        "nom_source": "MTN Group - Investor Data",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Trimestriel",
+        "url_principale": "https://www.mtn.com/",
+        "description_courte": "Données financières et opérationnelles du groupe MTN présent dans de nombreux pays africains."
+      },
+      "TELC-PRI-ORANGE-001": {
+        "nom_source": "Orange - Africa Data",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Trimestriel",
+        "url_principale": "https://www.orange.com/",
+        "description_courte": "Données sur les opérations d'Orange en Afrique : abonnés, revenus, investissements."
+      },
+      "TELC-PRI-VODACOM-001": {
+        "nom_source": "Vodacom Group - Data",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Trimestriel",
+        "url_principale": "https://www.vodacom.com/",
+        "description_courte": "Données opérationnelles de Vodacom en Afrique du Sud et dans d'autres pays africains."
+      },
+      "TELC-PRI-AIRTEL-001": {
+        "nom_source": "Airtel Africa - Data",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Trimestriel",
+        "url_principale": "https://www.airtel.africa/",
+        "description_courte": "Données financières et opérationnelles d'Airtel Africa."
+      },
+      "TELC-PRI-TELKOM-001": {
+        "nom_source": "Telkom South Africa - Data",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique du Sud",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.telkom.co.za/",
+        "description_courte": "Données sur les opérations de Telkom en Afrique du Sud."
+      },
+      "TELC-PRI-ECONET-001": {
+        "nom_source": "Econet - Africa Data",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique australe",
+        "fiabilite_score": 3,
+        "frequence": "Annuel",
+        "url_principale": "https://www.econetafrica.com/",
+        "description_courte": "Données sur les opérations d'Econet au Zimbabwe et dans d'autres pays africains."
+      },
+      "TELC-PRI-CELTEL-001": {
+        "nom_source": "Celtel / Zain - Historical Data",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 3,
+        "frequence": "Historique",
+        "url_principale": "https://www.zain.com/",
+        "description_courte": "Données historiques sur Celtel/Zain, opérateur majeur en Afrique."
+      }
+    }
+  }

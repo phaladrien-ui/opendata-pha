@@ -1,0 +1,10 @@
+{
+    "nom": "Éducation",
+    "description": "Sources de données sur l'éducation en Afrique : scolarisation, alphabétisation, qualité de l'éducation, genre et éducation, évaluations des acquis scolaires.",
+    "total_sources": 18,
+    "statut": "actif",
+    "responsable": null,
+    "date_creation": "2026-03-18",
+    "derniere_mise_a_jour": "2026-03-18",
+    "tags": ["éducation", "scolarisation", "alphabétisation", "école", "université", "formation", "genre", "évaluations"]
+  }

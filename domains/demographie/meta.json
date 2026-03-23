@@ -1,0 +1,10 @@
+{
+    "nom": "Démographie & Population",
+    "description": "Sources de données sur la population, les recensements, les migrations, la fécondité, la mortalité et l'urbanisation en Afrique.",
+    "total_sources": 28,
+    "statut": "actif",
+    "responsable": null,
+    "date_creation": "2026-03-18",
+    "derniere_mise_a_jour": "2026-03-18",
+    "tags": ["population", "recensement", "migration", "fécondité", "mortalité", "urbanisation"]
+  }

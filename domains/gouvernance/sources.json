@@ -1,0 +1,238 @@
+{
+    "sources": {
+      "GOUV-INT-WB-WGI-001": {
+        "nom_source": "World Bank - Worldwide Governance Indicators - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://info.worldbank.org/governance/wgi/",
+        "description_courte": "Indicateurs de gouvernance pour les pays africains : voix et responsabilité, stabilité politique, efficacité gouvernementale, qualité réglementaire, état de droit, contrôle de la corruption."
+      },
+      "GOUV-INT-WB-CPIA-001": {
+        "nom_source": "World Bank - CPIA Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.worldbank.org/en/data",
+        "description_courte": "Évaluation des politiques institutionnelles et de la gouvernance dans les pays africains."
+      },
+      "GOUV-INT-AFDB-CPIA-001": {
+        "nom_source": "AfDB - Country Policy and Institutional Assessment",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.afdb.org/en/documents/document/country-policy-and-institutional-assessment-cpia-2022-156620",
+        "description_courte": "Évaluation des politiques et institutions des pays africains membres de la Banque Africaine de Développement."
+      },
+      "GOUV-INT-UNECA-GOV-001": {
+        "nom_source": "UNECA - African Governance Report",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.uneca.org/",
+        "description_courte": "Rapports et données sur la gouvernance en Afrique, l'état de droit et les institutions."
+      },
+      "GOUV-INT-UNDP-GOV-001": {
+        "nom_source": "UNDP - Governance Data Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.undp.org/governance",
+        "description_courte": "Données sur les programmes de gouvernance, l'administration publique et la participation citoyenne en Afrique."
+      },
+      "GOUV-INT-AUC-GOV-001": {
+        "nom_source": "African Union - Governance Data",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://au.int/en/documents",
+        "description_courte": "Données et rapports sur la gouvernance, la démocratie et les élections en Afrique."
+      },
+      "GOUV-INT-AU-APRM-001": {
+        "nom_source": "APRM - African Peer Review Mechanism",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Quinquennal",
+        "url_principale": "https://www.aprm-au.org/",
+        "description_courte": "Évaluations par les pairs de la gouvernance dans les pays africains participants."
+      },
+      "GOUV-ONG-MOI-001": {
+        "nom_source": "Mo Ibrahim Foundation - Ibrahim Index of African Governance",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://mo.ibrahim.foundation/iiag",
+        "description_courte": "Indice complet de la gouvernance en Afrique : sécurité, État de droit, participation, développement humain, économie."
+      },
+      "GOUV-ONG-TI-001": {
+        "nom_source": "Transparency International - Corruption Perceptions Index - Africa",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.transparency.org/en/cpi",
+        "description_courte": "Indice de perception de la corruption pour les pays africains."
+      },
+      "GOUV-ONG-TI-GCB-001": {
+        "nom_source": "Transparency International - Global Corruption Barometer - Africa",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.transparency.org/en/gcb",
+        "description_courte": "Enquêtes sur les expériences et perceptions de la corruption par les citoyens africains."
+      },
+      "GOUV-ONG-FHI-001": {
+        "nom_source": "Freedom House - Freedom in the World - Africa",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://freedomhouse.org/countries/freedom-world/scores",
+        "description_courte": "Évaluations des droits politiques et libertés civiles dans les pays africains."
+      },
+      "GOUV-ONG-FOTN-001": {
+        "nom_source": "Fund for Peace - Fragile States Index - Africa",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://fragilestatesindex.org/",
+        "description_courte": "Indice de fragilité des États pour les pays africains : pressions, capacités."
+      },
+      "GOUV-ONG-RSF-001": {
+        "nom_source": "Reporters Without Borders - Press Freedom Index - Africa",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://rsf.org/en/index",
+        "description_courte": "Classement de la liberté de la presse dans les pays africains."
+      },
+      "GOUV-ONG-VDEM-001": {
+        "nom_source": "V-Dem Institute - Democracy Data - Africa",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.v-dem.net/",
+        "description_courte": "Données détaillées sur la démocratie, les élections et la gouvernance dans les pays africains."
+      },
+      "GOUV-RES-ACLED-001": {
+        "nom_source": "ACLED - Armed Conflict Location & Event Data - Africa",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Continue",
+        "url_principale": "https://acleddata.com/",
+        "description_courte": "Données en temps réel sur les conflits, violences politiques et manifestations en Afrique."
+      },
+      "GOUV-RES-UCDP-001": {
+        "nom_source": "UCDP - Uppsala Conflict Data Program - Africa",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://ucdp.uu.se/",
+        "description_courte": "Données sur les conflits armés et la violence politique en Afrique."
+      },
+      "GOUV-RES-CLDS-001": {
+        "nom_source": "CLDS - Conflict Data - Africa",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Projet",
+        "url_principale": "https://www.clingendael.org/",
+        "description_courte": "Données sur les conflits, la fragilité et la résilience en Afrique."
+      },
+      "GOUV-RES-AFRO-001": {
+        "nom_source": "Afrobarometer - Public Opinion Data",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.afrobarometer.org/",
+        "description_courte": "Enquêtes d'opinion publique sur la démocratie, la gouvernance, l'économie et la société dans plus de 30 pays africains."
+      },
+      "GOUV-RES-CL-001": {
+        "nom_source": "Carter Center - Election Data Africa",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Projet",
+        "url_principale": "https://www.cartercenter.org/",
+        "description_courte": "Observations électorales et données sur les processus démocratiques en Afrique."
+      },
+      "GOUV-INST-ZAF-001": {
+        "nom_source": "Statistics South Africa - Governance Statistics",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Afrique du Sud",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.statssa.gov.za/",
+        "description_courte": "Statistiques sur la gouvernance, les élections et l'administration publique en Afrique du Sud."
+      },
+      "GOUV-INST-KEN-001": {
+        "nom_source": "Kenya - Governance Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Kenya",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.knbs.or.ke/",
+        "description_courte": "Données officielles sur la gouvernance et l'administration au Kenya."
+      },
+      "GOUV-INST-NGA-001": {
+        "nom_source": "Nigeria - Governance Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Nigeria",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://nigerianstat.gov.ng/",
+        "description_courte": "Statistiques sur la gouvernance et l'administration publique au Nigeria."
+      },
+      "GOUV-PRI-EIU-DEM-001": {
+        "nom_source": "EIU - Democracy Index - Africa",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.eiu.com/n/campaigns/democracy-index-2022/",
+        "description_courte": "Indice de démocratie de l'Economist Intelligence Unit pour les pays africains."
+      },
+      "GOUV-PRI-BERTELSMANN-001": {
+        "nom_source": "Bertelsmann Stiftung - Transformation Index - Africa",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://bti-project.org/",
+        "description_courte": "Évaluation des processus de transformation politique et économique en Afrique."
+      },
+      "GOUV-PRI-WJP-001": {
+        "nom_source": "World Justice Project - Rule of Law Index - Africa",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://worldjusticeproject.org/rule-of-law-index/",
+        "description_courte": "Indice de l'état de droit pour les pays africains."
+      },
+      "GOUV-ELECTIONS-001": {
+        "nom_source": "Election Guide - Africa",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique",
+        "fiabilite_score": 3,
+        "frequence": "Continue",
+        "url_principale": "https://www.electionguide.org/",
+        "description_courte": "Calendrier électoral et résultats des élections en Afrique."
+      }
+    }
+  }

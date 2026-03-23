@@ -1,0 +1,202 @@
+{
+    "sources": {
+      "INFR-INT-PIDA-001": {
+        "nom_source": "PIDA - Programme for Infrastructure Development in Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.au-pida.org/",
+        "description_courte": "Données et suivi des projets d'infrastructures prioritaires en Afrique : transports, énergie, eau, TIC."
+      },
+      "INFR-INT-AFDB-PIDA-001": {
+        "nom_source": "AfDB - Infrastructure Data",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.afdb.org/en/topics-and-sectors/sectors/infrastructure",
+        "description_courte": "Données sur les projets d'infrastructure financés par la Banque Africaine de Développement."
+      },
+      "INFR-INT-WB-AICD-001": {
+        "nom_source": "AICD - Africa Infrastructure Country Diagnostic",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Quinquennal",
+        "url_principale": "https://www.infrastructureafrica.org/",
+        "description_courte": "Évaluation complète des infrastructures en Afrique : transports, eau, énergie, TIC, avec données par pays."
+      },
+      "INFR-INT-UN-HABITAT-001": {
+        "nom_source": "UN-HABITAT - Urban Data Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://data.unhabitat.org/",
+        "description_courte": "Données sur l'urbanisation, les villes, le logement et les infrastructures urbaines en Afrique."
+      },
+      "INFR-INT-UNECA-INFR-001": {
+        "nom_source": "UNECA - Infrastructure Statistics",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.uneca.org/",
+        "description_courte": "Données sur les infrastructures et l'intégration régionale en Afrique."
+      },
+      "INFR-INT-WB-LPI-001": {
+        "nom_source": "World Bank - Logistics Performance Index - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Biennal",
+        "url_principale": "https://lpi.worldbank.org/",
+        "description_courte": "Indice de performance logistique pour les pays africains : qualité des infrastructures, douanes, fret."
+      },
+      "INFR-INT-WB-CPIA-001": {
+        "nom_source": "World Bank CPIA - Infrastructure Ratings Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.worldbank.org/en/data",
+        "description_courte": "Évaluations des politiques nationales en matière d'infrastructures pour les pays africains."
+      },
+      "INFR-RES-SETI-001": {
+        "nom_source": "SSATP - Africa Transport Policy Program",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.ssatp.org/",
+        "description_courte": "Données et politiques sur les transports en Afrique : routes, corridors, transport urbain."
+      },
+      "INFR-RES-WRI-CITIES-001": {
+        "nom_source": "WRI - Cities Data - Africa",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Projet",
+        "url_principale": "https://www.wri.org/cities",
+        "description_courte": "Données sur le développement urbain durable, la mobilité et l'accessibilité dans les villes africaines."
+      },
+      "INFR-RES-ODI-001": {
+        "nom_source": "ODI - Infrastructure Data Africa",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Projet",
+        "url_principale": "https://odi.org/",
+        "description_courte": "Recherche sur les infrastructures, les partenariats public-privé et le financement en Afrique."
+      },
+      "INFR-ONG-AFUR-001": {
+        "nom_source": "AFUR - African Forum for Utility Regulators",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 3,
+        "frequence": "Annuel",
+        "url_principale": "https://afurnet.org/",
+        "description_courte": "Données sur la régulation des services d'eau et d'électricité en Afrique."
+      },
+      "INFR-ONG-SIWI-001": {
+        "nom_source": "SIWI - Stockholm International Water Institute - Africa",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://siwi.org/",
+        "description_courte": "Données et rapports sur la gestion de l'eau et les infrastructures hydrauliques en Afrique."
+      },
+      "INFR-INST-ZAF-001": {
+        "nom_source": "Statistics South Africa - Infrastructure",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Afrique du Sud",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.statssa.gov.za/",
+        "description_courte": "Statistiques sur les infrastructures en Afrique du Sud : construction, logement, services publics."
+      },
+      "INFR-INST-EGY-001": {
+        "nom_source": "Egypt - Infrastructure Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Égypte (Afrique du Nord)",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.capmas.gov.eg/",
+        "description_courte": "Données sur les infrastructures en Égypte : routes, ports, logement."
+      },
+      "INFR-INST-MAR-001": {
+        "nom_source": "Maroc - Infrastructure Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Maroc (Afrique du Nord)",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.equipement.gov.ma/",
+        "description_courte": "Statistiques sur les infrastructures au Maroc : routes, ports, aéroports, logement."
+      },
+      "INFR-INST-NGA-001": {
+        "nom_source": "Nigeria - Infrastructure Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Nigeria",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://nigerianstat.gov.ng/",
+        "description_courte": "Données sur les infrastructures au Nigeria : routes, électricité, logement."
+      },
+      "INFR-PRI-ARC-001": {
+        "nom_source": "Africa Finance Corporation - Infrastructure Data",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.africafc.org/",
+        "description_courte": "Données sur les investissements et projets d'infrastructure en Afrique."
+      },
+      "INFR-PRI-DELOITTE-001": {
+        "nom_source": "Deloitte - African Construction Trends",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www2.deloitte.com/",
+        "description_courte": "Rapports sur les tendances de la construction et des infrastructures en Afrique."
+      },
+      "INFR-PRI-KPMG-001": {
+        "nom_source": "KPMG - Infrastructure in Africa",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://home.kpmg.com/",
+        "description_courte": "Analyses des projets d'infrastructure et des investissements en Afrique."
+      },
+      "INFR-PRI-PWC-001": {
+        "nom_source": "PwC - Africa Infrastructure Investment",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.pwc.com/",
+        "description_courte": "Données sur les investissements dans les infrastructures en Afrique."
+      },
+      "INFR-GIS-OSM-001": {
+        "nom_source": "OpenStreetMap - Africa Infrastructure Data",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 3,
+        "frequence": "Continue",
+        "url_principale": "https://www.openstreetmap.org/",
+        "description_courte": "Données géospatiales participatives sur les infrastructures : routes, bâtiments, services."
+      },
+      "INFR-GIS-GRID3-001": {
+        "nom_source": "GRID3 - Geo-Referenced Infrastructure and Demographic Data",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique subsaharienne",
+        "fiabilite_score": 4,
+        "frequence": "Projet",
+        "url_principale": "https://grid3.org/",
+        "description_courte": "Données géospatiales sur les infrastructures, les établissements humains et la population en Afrique."
+      }
+    }
+  }

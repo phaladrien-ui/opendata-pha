@@ -1,0 +1,238 @@
+{
+    "sources": {
+      "ENER-INT-IEA-001": {
+        "nom_source": "IEA - International Energy Agency - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.iea.org/regions/africa",
+        "description_courte": "Données complètes sur l'énergie en Afrique : production, consommation, mix énergétique, accès à l'électricité, prévisions."
+      },
+      "ENER-INT-IEA-AEO-001": {
+        "nom_source": "IEA - Africa Energy Outlook",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.iea.org/reports/africa-energy-outlook-2022",
+        "description_courte": "Rapport détaillé sur les perspectives énergétiques en Afrique : scénarios, investissements, politiques."
+      },
+      "ENER-INT-AFDB-ENE-001": {
+        "nom_source": "AfDB - Energy Sector Data",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.afdb.org/en/topics-and-sectors/sectors/energy",
+        "description_courte": "Données sur les projets énergétiques financés par la Banque Africaine de Développement, accès à l'électricité."
+      },
+      "ENER-INT-WB-ENE-001": {
+        "nom_source": "World Bank - Energy Data Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://data.worldbank.org/topic/energy-and-mining",
+        "description_courte": "Indicateurs énergétiques : accès à l'électricité, consommation d'énergie, production, intensité énergétique."
+      },
+      "ENER-INT-IRENA-001": {
+        "nom_source": "IRENA - Renewable Energy Data Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.irena.org/Africa",
+        "description_courte": "Données sur les énergies renouvelables en Afrique : capacités installées, potentiels, investissements."
+      },
+      "ENER-INT-UNECA-ENE-001": {
+        "nom_source": "UNECA - Energy Statistics",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.uneca.org/",
+        "description_courte": "Données énergétiques intégrées aux indicateurs de développement durable pour l'Afrique."
+      },
+      "ENER-INT-UNSD-ENE-001": {
+        "nom_source": "UNSD - Energy Statistics Database - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://unstats.un.org/unsd/energystats/",
+        "description_courte": "Statistiques énergétiques officielles des Nations Unies pour les pays africains."
+      },
+      "ENER-INT-AEC-001": {
+        "nom_source": "AEC - African Energy Commission",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.au-afrec.org/",
+        "description_courte": "Données et politiques énergétiques de l'Union Africaine, cartographie des ressources."
+      },
+      "ENER-INT-ECREEE-001": {
+        "nom_source": "ECREEE - ECOWAS Centre for Renewable Energy",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique de l'Ouest (CEDEAO)",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.ecreee.org/",
+        "description_courte": "Données sur les énergies renouvelables et l'efficacité énergétique en Afrique de l'Ouest."
+      },
+      "ENER-INT-EAPP-001": {
+        "nom_source": "EAPP - Eastern Africa Power Pool",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique de l'Est",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "http://eappool.org/",
+        "description_courte": "Données sur l'interconnexion électrique et les projets énergétiques en Afrique de l'Est."
+      },
+      "ENER-INT-SAPP-001": {
+        "nom_source": "SAPP - Southern African Power Pool",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique australe",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.sapp.co.zw/",
+        "description_courte": "Données sur la production, la consommation et les échanges d'électricité en Afrique australe."
+      },
+      "ENER-INT-WAPP-001": {
+        "nom_source": "WAPP - West African Power Pool",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique de l'Ouest",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "http://www.ecowapp.org/",
+        "description_courte": "Données sur l'intégration électrique et les infrastructures en Afrique de l'Ouest."
+      },
+      "ENER-RES-LBNL-001": {
+        "nom_source": "LBNL - Africa Energy Data",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Projet",
+        "url_principale": "https://energy.lbl.gov/",
+        "description_courte": "Recherche sur l'énergie en Afrique : efficacité énergétique, accès, renouvelables."
+      },
+      "ENER-RES-OU-001": {
+        "nom_source": "Oxford University - Energy Research Africa",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Projet",
+        "url_principale": "https://www.oxfordenergy.org/",
+        "description_courte": "Recherche sur les politiques énergétiques, les marchés et les investissements en Afrique."
+      },
+      "ENER-RES-UC-001": {
+        "nom_source": "UC Berkeley - Energy Access Data",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique subsaharienne",
+        "fiabilite_score": 4,
+        "frequence": "Projet",
+        "url_principale": "https://rael.berkeley.edu/",
+        "description_courte": "Données sur l'accès à l'énergie, les mini-réseaux et les solutions décentralisées en Afrique."
+      },
+      "ENER-ONG-SEI-001": {
+        "nom_source": "SEI - Stockholm Environment Institute - Africa",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.sei.org/",
+        "description_courte": "Recherche sur l'énergie durable, le climat et le développement en Afrique."
+      },
+      "ENER-ONG-POWER-001": {
+        "nom_source": "Power Africa - Data",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique subsaharienne",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.usaid.gov/powerafrica",
+        "description_courte": "Données sur les projets d'électrification et les investissements énergétiques en Afrique."
+      },
+      "ENER-ONG-ARE-001": {
+        "nom_source": "ARE - Alliance for Rural Electrification - Africa",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique",
+        "fiabilite_score": 3,
+        "frequence": "Annuel",
+        "url_principale": "https://www.ruralelec.org/",
+        "description_courte": "Données sur l'électrification rurale et les énergies renouvelables décentralisées en Afrique."
+      },
+      "ENER-INST-ZAF-001": {
+        "nom_source": "Statistics South Africa - Energy",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Afrique du Sud",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.statssa.gov.za/",
+        "description_courte": "Statistiques énergétiques officielles de l'Afrique du Sud : production, consommation, charbon, électricité."
+      },
+      "ENER-INST-NGA-001": {
+        "nom_source": "Nigeria - Energy Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Nigeria",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://nigerianstat.gov.ng/",
+        "description_courte": "Données sur l'énergie au Nigeria : pétrole, gaz, électricité, accès."
+      },
+      "ENER-INST-EGY-001": {
+        "nom_source": "Egypt - Energy Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Égypte (Afrique du Nord)",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.capmas.gov.eg/",
+        "description_courte": "Statistiques énergétiques de l'Égypte : pétrole, gaz, électricité, renouvelables."
+      },
+      "ENER-INST-ALG-001": {
+        "nom_source": "Algeria - Energy Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Algérie (Afrique du Nord)",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.ons.dz/",
+        "description_courte": "Données sur l'énergie en Algérie : hydrocarbures, électricité."
+      },
+      "ENER-PRI-BP-001": {
+        "nom_source": "BP Statistical Review - Africa",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.bp.com/en/global/corporate/energy-economics.html",
+        "description_courte": "Données sur la production et consommation d'énergie en Afrique (pétrole, gaz, charbon, renouvelables)."
+      },
+      "ENER-PRI-EIU-001": {
+        "nom_source": "EIU - Economist Intelligence Unit - Energy Africa",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.eiu.com/",
+        "description_courte": "Analyses et prévisions du secteur énergétique en Afrique."
+      },
+      "ENER-PRI-WEC-001": {
+        "nom_source": "WEC - World Energy Council - Africa",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.worldenergy.org/",
+        "description_courte": "Données et rapports sur les politiques énergétiques et les marchés en Afrique."
+      },
+      "ENER-PRI-REA-001": {
+        "nom_source": "REA - Rural Electrification Agency (pays africains)",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 3,
+        "frequence": "Annuel",
+        "url_principale": "https://rea.gov.ng/",
+        "description_courte": "Données sur l'électrification rurale dans divers pays africains."
+      }
+    }
+  }

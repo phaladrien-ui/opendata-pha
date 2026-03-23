@@ -1,0 +1,10 @@
+{
+    "nom": "Gouvernance & Politique Publique",
+    "description": "Sources de données sur la gouvernance en Afrique : démocratie, élections, état de droit, corruption, conflits, opinion publique, institutions, politiques publiques.",
+    "total_sources": 26,
+    "statut": "actif",
+    "responsable": null,
+    "date_creation": "2026-03-18",
+    "derniere_mise_a_jour": "2026-03-18",
+    "tags": ["gouvernance", "démocratie", "élections", "état de droit", "corruption", "conflits", "opinion publique", "institutions", "politiques publiques"]
+  }

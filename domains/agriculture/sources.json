@@ -1,0 +1,229 @@
+{
+    "sources": {
+      "AGRI-INT-FAO-001": {
+        "nom_source": "FAOSTAT - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.fao.org/faostat/en/#data",
+        "description_courte": "Statistiques complètes sur l'agriculture en Afrique : production agricole, superficie, rendements, sécurité alimentaire, prix."
+      },
+      "AGRI-INT-FAO-WFP-001": {
+        "nom_source": "WFP - Programme Alimentaire Mondial - Données Afrique",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Mensuel",
+        "url_principale": "https://data.wfp.org/",
+        "description_courte": "Données sur la sécurité alimentaire, les prix des denrées, l'aide alimentaire et la malnutrition en Afrique."
+      },
+      "AGRI-INT-FAO-GIEWS-001": {
+        "nom_source": "FAO GIEWS - Global Information and Early Warning System",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Mensuel",
+        "url_principale": "https://www.fao.org/giews/en/",
+        "description_courte": "Système d'alerte précoce sur la sécurité alimentaire, production agricole et disponibilités alimentaires en Afrique."
+      },
+      "AGRI-INT-IFPRI-001": {
+        "nom_source": "IFPRI - International Food Policy Research Institute",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.ifpri.org/",
+        "description_courte": "Recherche et données sur les politiques agricoles, la sécurité alimentaire, la nutrition et le développement rural en Afrique."
+      },
+      "AGRI-INT-WB-AGRI-001": {
+        "nom_source": "World Bank Agriculture Data - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://data.worldbank.org/topic/agriculture-and-rural-development",
+        "description_courte": "Indicateurs agricoles : valeur ajoutée agricole, terres agricoles, emploi dans l'agriculture, irrigation."
+      },
+      "AGRI-INT-AFDB-AGRI-001": {
+        "nom_source": "AfDB - Feed Africa - Agriculture Data",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.afdb.org/en/topics-and-sectors/sectors/agriculture-agro-industry",
+        "description_courte": "Stratégies et données sur la transformation agricole en Afrique, investissements et projets."
+      },
+      "AGRI-INT-UNECA-AGRI-001": {
+        "nom_source": "UNECA Agriculture Statistics",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://ecastats.uneca.org/data/",
+        "description_courte": "Données agricoles intégrées aux indicateurs de développement durable pour l'Afrique."
+      },
+      "AGRI-INT-CILSS-001": {
+        "nom_source": "CILSS - Comité Permanent Inter-États de Lutte contre la Sécheresse dans le Sahel",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Sahel (Afrique de l'Ouest)",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.cilss.int/",
+        "description_courte": "Données agricoles, pastorales et sécurité alimentaire dans la région sahélienne."
+      },
+      "AGRI-RES-CGIAR-001": {
+        "nom_source": "CGIAR - Data and Research",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Projet",
+        "url_principale": "https://www.cgiar.org/",
+        "description_courte": "Recherche agricole internationale avec nombreux centres en Afrique : IITA, ICRISAT, ILRI, etc."
+      },
+      "AGRI-RES-IITA-001": {
+        "nom_source": "IITA - International Institute of Tropical Agriculture",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique tropicale",
+        "fiabilite_score": 5,
+        "frequence": "Projet",
+        "url_principale": "https://www.iita.org/",
+        "description_courte": "Recherche et données sur l'agriculture tropicale, cultures vivrières, banane, manioc, maïs en Afrique."
+      },
+      "AGRI-RES-ICRISAT-001": {
+        "nom_source": "ICRISAT - International Crops Research Institute",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique subsaharienne",
+        "fiabilite_score": 5,
+        "frequence": "Projet",
+        "url_principale": "https://www.icrisat.org/",
+        "description_courte": "Recherche sur les cultures sèches (sorgho, mil, arachide) et agriculture durable en Afrique."
+      },
+      "AGRI-RES-ILRI-001": {
+        "nom_source": "ILRI - International Livestock Research Institute",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Projet",
+        "url_principale": "https://www.ilri.org/",
+        "description_courte": "Données et recherche sur l'élevage, les systèmes pastoraux et la santé animale en Afrique."
+      },
+      "AGRI-RES-WUR-001": {
+        "nom_source": "Wageningen University - Africa Research",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Projet",
+        "url_principale": "https://www.wur.nl/",
+        "description_courte": "Recherche agricole et alimentaire avec nombreux projets en Afrique."
+      },
+      "AGRI-CLIM-INT-WMO-001": {
+        "nom_source": "WMO - World Meteorological Organization - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://public.wmo.int/en/our-mandate/africa",
+        "description_courte": "Données climatiques, prévisions et alertes météorologiques pour l'Afrique."
+      },
+      "AGRI-CLIM-INT-ICPAC-001": {
+        "nom_source": "ICPAC - IGAD Climate Prediction and Applications Centre",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique de l'Est",
+        "fiabilite_score": 4,
+        "frequence": "Mensuel",
+        "url_principale": "https://www.icpac.net/",
+        "description_courte": "Prévisions climatiques, alertes et données pour la région de la Corne de l'Afrique."
+      },
+      "AGRI-CLIM-INT-AGRHYMET-001": {
+        "nom_source": "AGRHYMET - Centre Régional de Formation et d'Application",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique de l'Ouest (CILSS)",
+        "fiabilite_score": 4,
+        "frequence": "Saisonnier",
+        "url_principale": "https://www.agrhymet.ne/",
+        "description_courte": "Données agro-climatiques et prévisions pour l'agriculture en Afrique de l'Ouest."
+      },
+      "AGRI-CLIM-NASA-001": {
+        "nom_source": "NASA Earth Data - Africa",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Continue",
+        "url_principale": "https://earthdata.nasa.gov/",
+        "description_courte": "Données satellitaires sur le climat, la végétation, les précipitations et l'utilisation des terres en Afrique."
+      },
+      "AGRI-CLIM-ESA-001": {
+        "nom_source": "ESA Climate Change Initiative - Africa",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Continue",
+        "url_principale": "https://climate.esa.int/",
+        "description_courte": "Données climatiques satellitaires pour l'Afrique : température, précipitations, couverture végétale."
+      },
+      "AGRI-CLIM-UNDP-001": {
+        "nom_source": "UNDP Climate Change Adaptation - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.adaptation-undp.org/",
+        "description_courte": "Données et rapports sur l'adaptation au changement climatique en Afrique."
+      },
+      "AGRI-ONG-FARM-001": {
+        "nom_source": "FARM - Fondation pour l'Agriculture et la Ruralité dans le Monde",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique",
+        "fiabilite_score": 3,
+        "frequence": "Irrégulier",
+        "url_principale": "https://www.farm-foundation.org/",
+        "description_courte": "Projets et données sur l'agriculture familiale et la sécurité alimentaire en Afrique."
+      },
+      "AGRI-PRI-OSIRIS-001": {
+        "nom_source": "Osiris - Données Agricoles par Satellite",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 3,
+        "frequence": "Continue",
+        "url_principale": "https://www.osiris.earth/",
+        "description_courte": "Données satellitaires pour l'agriculture en Afrique : santé des cultures, prévisions de rendement."
+      },
+      "AGRI-INST-ZAF-001": {
+        "nom_source": "Statistics South Africa - Agriculture",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Afrique du Sud",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.statssa.gov.za/",
+        "description_courte": "Statistiques agricoles officielles de l'Afrique du Sud : production, superficie, élevage."
+      },
+      "AGRI-INST-KEN-001": {
+        "nom_source": "Kenya Agricultural Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Kenya",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.kilimo.go.ke/",
+        "description_courte": "Données agricoles officielles du Kenya : production, marchés, sécurité alimentaire."
+      },
+      "AGRI-INST-NGA-001": {
+        "nom_source": "Nigeria Agricultural Statistics",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Nigeria",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://nigerianstat.gov.ng/",
+        "description_courte": "Statistiques agricoles officielles du Nigeria : production, superficie, rendements."
+      },
+      "AGRI-INST-MAR-001": {
+        "nom_source": "Maroc - Agriculture Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Maroc (Afrique du Nord)",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.agriculture.gov.ma/",
+        "description_courte": "Données agricoles du Maroc : production, irrigation, stratégie agricole."
+      }
+    }
+  }

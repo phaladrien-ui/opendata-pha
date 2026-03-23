@@ -1,0 +1,247 @@
+{
+    "sources": {
+      "SOC-INT-ILO-001": {
+        "nom_source": "ILOSTAT - ILO - Africa Employment Data",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://ilostat.ilo.org/fr/data/africa/",
+        "description_courte": "Statistiques complètes sur l'emploi, le chômage, la population active, le travail informel et les conditions de travail en Afrique."
+      },
+      "SOC-INT-ILO-LABOUR-001": {
+        "nom_source": "ILO - Labour Force Statistics - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://ilostat.ilo.org/",
+        "description_courte": "Données sur la force de travail, l'emploi par secteur, le travail des enfants et la protection sociale en Afrique."
+      },
+      "SOC-INT-WB-POV-001": {
+        "nom_source": "World Bank - Poverty and Inequality Data - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://data.worldbank.org/topic/poverty",
+        "description_courte": "Indicateurs de pauvreté, inégalités, taux de pauvreté, distribution des revenus pour les pays africains."
+      },
+      "SOC-INT-WB-POVCAL-001": {
+        "nom_source": "World Bank - PovcalNet - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "http://iresearch.worldbank.org/PovcalNet/home.aspx",
+        "description_courte": "Outil d'analyse de la pauvreté avec données détaillées pour les pays africains."
+      },
+      "SOC-INT-UNDP-HDI-001": {
+        "nom_source": "UNDP - Human Development Index - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://hdr.undp.org/",
+        "description_courte": "Indice de développement humain et indicateurs associés pour les pays africains : santé, éducation, revenu."
+      },
+      "SOC-INT-UNDP-MPI-001": {
+        "nom_source": "UNDP - Multidimensional Poverty Index - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://hdr.undp.org/",
+        "description_courte": "Indice de pauvreté multidimensionnelle pour les pays africains : privations en santé, éducation, niveau de vie."
+      },
+      "SOC-INT-UNICEF-POV-001": {
+        "nom_source": "UNICEF - Child Poverty Data - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://data.unicef.org/",
+        "description_courte": "Données sur la pauvreté des enfants, privations et protection sociale en Afrique."
+      },
+      "SOC-INT-UNECA-SOC-001": {
+        "nom_source": "UNECA - Social Statistics",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.uneca.org/",
+        "description_courte": "Statistiques sociales pour l'Afrique : emploi, pauvreté, inégalités, protection sociale."
+      },
+      "SOC-INT-AFDB-SOC-001": {
+        "nom_source": "AfDB - Social Indicators",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.afdb.org/",
+        "description_courte": "Indicateurs sociaux des pays africains : emploi, pauvreté, développement humain."
+      },
+      "SOC-RES-LIS-001": {
+        "nom_source": "LIS - Luxembourg Income Study - Africa",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Projet",
+        "url_principale": "https://www.lisdatacenter.org/",
+        "description_courte": "Données comparables sur les revenus, la pauvreté et les inégalités en Afrique."
+      },
+      "SOC-RES-WIID-001": {
+        "nom_source": "WIID - World Income Inequality Database - Africa",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.wider.unu.edu/project/wiid-world-income-inequality-database",
+        "description_courte": "Base de données sur les inégalités de revenus pour les pays africains."
+      },
+      "SOC-RES-SWID-001": {
+        "nom_source": "SWIID - Standardized World Income Inequality Database - Africa",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://fsolt.org/swiid/",
+        "description_courte": "Données standardisées sur les inégalités de revenus en Afrique."
+      },
+      "SOC-RES-AFROBAR-001": {
+        "nom_source": "Afrobarometer - Social Data",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.afrobarometer.org/",
+        "description_courte": "Enquêtes d'opinion sur les conditions de vie, l'emploi, la pauvreté et les services sociaux en Afrique."
+      },
+      "SOC-ONG-OXFAM-001": {
+        "nom_source": "Oxfam - Inequality Data - Africa",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.oxfam.org/en/tags/africa",
+        "description_courte": "Rapports et données sur les inégalités économiques et sociales en Afrique."
+      },
+      "SOC-ONG-SAVE-001": {
+        "nom_source": "Save the Children - Social Data Africa",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.savethechildren.org/",
+        "description_courte": "Données sur la pauvreté des enfants, la protection sociale et les conditions de vie en Afrique."
+      },
+      "SOC-ONG-CARE-001": {
+        "nom_source": "CARE International - Poverty Data Africa",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique",
+        "fiabilite_score": 3,
+        "frequence": "Annuel",
+        "url_principale": "https://www.care-international.org/",
+        "description_courte": "Rapports sur la pauvreté, l'autonomisation des femmes et la sécurité alimentaire en Afrique."
+      },
+      "SOC-ONG-ACTIONAID-001": {
+        "nom_source": "ActionAid - Social Justice Data Africa",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique",
+        "fiabilite_score": 3,
+        "frequence": "Annuel",
+        "url_principale": "https://actionaid.org/",
+        "description_courte": "Données sur les inégalités, la justice sociale et les droits en Afrique."
+      },
+      "SOC-INST-ZAF-001": {
+        "nom_source": "Statistics South Africa - Social Statistics",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Afrique du Sud",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.statssa.gov.za/",
+        "description_courte": "Statistiques sociales détaillées : emploi, chômage, pauvreté, conditions de vie, inégalités en Afrique du Sud."
+      },
+      "SOC-INST-KEN-001": {
+        "nom_source": "Kenya - Social Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Kenya",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.knbs.or.ke/",
+        "description_courte": "Données sociales officielles du Kenya : emploi, pauvreté, conditions de vie."
+      },
+      "SOC-INST-NGA-001": {
+        "nom_source": "Nigeria - Social Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Nigeria",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://nigerianstat.gov.ng/",
+        "description_courte": "Statistiques sociales officielles du Nigeria : emploi, pauvreté, conditions de vie."
+      },
+      "SOC-INST-EGY-001": {
+        "nom_source": "Egypt - Social Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Égypte (Afrique du Nord)",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.capmas.gov.eg/",
+        "description_courte": "Données sociales officielles de l'Égypte : emploi, pauvreté, conditions de vie."
+      },
+      "SOC-INST-MAR-001": {
+        "nom_source": "Maroc - Social Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Maroc (Afrique du Nord)",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.hcp.ma/",
+        "description_courte": "Statistiques sociales officielles du Maroc : emploi, pauvreté, conditions de vie."
+      },
+      "SOC-INST-TUN-001": {
+        "nom_source": "Tunisia - Social Data",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Tunisie (Afrique du Nord)",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "http://www.ins.tn/",
+        "description_courte": "Données sociales officielles de la Tunisie : emploi, pauvreté, conditions de vie."
+      },
+      "SOC-PRI-EIU-SOC-001": {
+        "nom_source": "EIU - Social Indicators Africa",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.eiu.com/",
+        "description_courte": "Analyses et données sur les conditions sociales en Afrique."
+      },
+      "SOC-PRI-GALLUP-001": {
+        "nom_source": "Gallup - Well-being Data Africa",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.gallup.com/",
+        "description_courte": "Enquêtes sur le bien-être, la qualité de vie et l'emploi en Afrique."
+      },
+      "SOC-PRI-STATISTA-001": {
+        "nom_source": "Statista - Social Data Africa",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 3,
+        "frequence": "Annuel",
+        "url_principale": "https://www.statista.com/",
+        "description_courte": "Statistiques et études sur les conditions sociales en Afrique."
+      },
+      "SOC-PRI-NUMBEO-001": {
+        "nom_source": "Numbeo - Quality of Life Africa",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 2,
+        "frequence": "Continue",
+        "url_principale": "https://www.numbeo.com/",
+        "description_courte": "Données participatives sur la qualité de vie, le coût de la vie et les conditions sociales dans les villes africaines."
+      }
+    }
+  }

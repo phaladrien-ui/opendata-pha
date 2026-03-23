@@ -1,0 +1,10 @@
+{
+    "nom": "Énergie",
+    "description": "Sources de données sur l'énergie en Afrique : production, consommation, mix énergétique, accès à l'électricité, énergies renouvelables, pétrole, gaz, charbon.",
+    "total_sources": 25,
+    "statut": "actif",
+    "responsable": null,
+    "date_creation": "2026-03-18",
+    "derniere_mise_a_jour": "2026-03-18",
+    "tags": ["énergie", "électricité", "pétrole", "gaz", "charbon", "renouvelables", "solaire", "éolien", "hydroélectricité", "accès à l'énergie"]
+  }

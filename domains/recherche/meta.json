@@ -1,0 +1,10 @@
+{
+    "nom": "Recherche & Innovation",
+    "description": "Sources de données sur la recherche et l'innovation en Afrique : publications scientifiques, brevets, R&D, chercheurs, institutions de recherche, innovation.",
+    "total_sources": 26,
+    "statut": "actif",
+    "responsable": null,
+    "date_creation": "2026-03-18",
+    "derniere_mise_a_jour": "2026-03-18",
+    "tags": ["recherche", "science", "innovation", "publications", "brevets", "R&D", "chercheurs", "universités", "laboratoires"]
+  }

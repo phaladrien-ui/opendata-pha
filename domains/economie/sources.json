@@ -1,0 +1,166 @@
+{
+    "sources": {
+      "ECO-INT-WB-WDI-001": {
+        "nom_source": "World Bank World Development Indicators – Économie Afrique",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Global / Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://data.worldbank.org/region/sub-saharan-africa",
+        "description_courte": "Séries longues harmonisées sur PIB, croissance, inflation, dette, IDE, balance des paiements et fiscalité."
+      },
+      "ECO-INT-AFDB-AEO-001": {
+        "nom_source": "African Economic Outlook (AfDB)",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.afdb.org/en/knowledge/publications/african-economic-outlook",
+        "description_courte": "Prévisions macroéconomiques, croissance, inflation, dette publique, commerce et perspectives sectorielles par pays."
+      },
+      "ECO-INT-IMF-REO-001": {
+        "nom_source": "IMF Regional Economic Outlook – Sub-Saharan Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique subsaharienne",
+        "fiabilite_score": 5,
+        "frequence": "Semestriel",
+        "url_principale": "https://www.imf.org/en/Publications/REO/SSA",
+        "description_courte": "Analyses et prévisions macroéconomiques, risques fiscaux, politiques monétaires et perspectives de croissance."
+      },
+      "ECO-INT-UNECA-ERA-001": {
+        "nom_source": "UNECA Economic Report on Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.uneca.org/publications",
+        "description_courte": "Rapport annuel sur transformation structurelle, industrialisation, commerce intra-africain et intégration économique."
+      },
+      "ECO-INT-WTO-TP-001": {
+        "nom_source": "WTO Trade Profiles – Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.wto.org/english/res_e/statis_e/trade_profiles_list_e.htm",
+        "description_courte": "Statistiques détaillées du commerce extérieur, exportations, importations et tarifs douaniers par pays africain."
+      },
+      "ECO-INT-UNCTAD-001": {
+        "nom_source": "UNCTAD World Investment Report – Africa Focus",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://unctad.org/topic/investment/world-investment-report",
+        "description_courte": "Données sur investissements directs étrangers (IDE), flux financiers et chaînes de valeur en Afrique."
+      },
+      "ECO-INT-OECD-AEO-001": {
+        "nom_source": "OECD African Economic Outlook Partner Report",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.oecd.org/dev/africa-economic-outlook.htm",
+        "description_courte": "Rapport conjoint sur perspectives économiques africaines avec focus sur gouvernance et réformes structurelles."
+      },
+      "ECO-RES-AERC-001": {
+        "nom_source": "African Economic Research Consortium (AERC)",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Projet",
+        "url_principale": "https://aercafrica.org/",
+        "description_courte": "Études et rapports de recherche sur politique économique, monétaire et fiscale en Afrique."
+      },
+      "ECO-RES-WIDER-001": {
+        "nom_source": "UNU-WIDER – Africa Economic Studies",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Projet",
+        "url_principale": "https://www.wider.unu.edu/",
+        "description_courte": "Recherche sur inégalités économiques, pauvreté, fiscalité et croissance inclusive en Afrique."
+      },
+      "ECO-ONG-MOI-001": {
+        "nom_source": "Mo Ibrahim Foundation – Economic Governance",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://mo.ibrahim.foundation/",
+        "description_courte": "Indices de gouvernance économique, transparence budgétaire et corruption."
+      },
+      "ECO-PRI-GSMA-ECO-001": {
+        "nom_source": "GSMA Mobile Economy – Economic Impact",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.gsma.com/mobileeconomy/",
+        "description_courte": "Contribution du mobile au PIB, création d'emplois et impact économique du numérique en Afrique."
+      },
+      "ECO-INST-ZAF-001": {
+        "nom_source": "Statistics South Africa – Economic Indicators",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Afrique du Sud (référence)",
+        "fiabilite_score": 5,
+        "frequence": "Trimestriel / Annuel",
+        "url_principale": "https://www.statssa.gov.za/?page_id=735",
+        "description_courte": "Données officielles sur PIB, inflation, emploi, commerce et indicateurs macroéconomiques."
+      },
+      "ECO-INT-NGA-CBN-001": {
+        "nom_source": "Central Bank of Nigeria – Economic Reports",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Nigeria (référence)",
+        "fiabilite_score": 4,
+        "frequence": "Mensuel / Trimestriel",
+        "url_principale": "https://www.cbn.gov.ng/documents/ondreports.asp",
+        "description_courte": "Rapports monétaires, inflation, taux de change, réserves internationales et stabilité financière."
+      },
+      "ECO-INT-FMI-AFR-001": {
+        "nom_source": "FMI Africa Regional Economic Outlook",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Semestriel",
+        "url_principale": "https://www.imf.org/en/Publications/REO/AFR",
+        "description_courte": "Prévisions et analyses macroéconomiques pour l'Afrique avec focus sur risques et résilience."
+      },
+      "ECO-INT-AUC-ECO-001": {
+        "nom_source": "African Union – Economic Reports",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://au.int/en/documents",
+        "description_courte": "Rapports économiques de l'Union Africaine sur intégration, commerce intra-africain et Agenda 2063."
+      },
+      "ECO-RES-AERC-ECO-001": {
+        "nom_source": "AERC Economic Policy Research",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Projet",
+        "url_principale": "https://aercafrica.org/",
+        "description_courte": "Recherche avancée sur politique économique, réforme fiscale et développement en Afrique."
+      },
+      "ECO-ONG-OXFAM-001": {
+        "nom_source": "Oxfam Economic Inequality Reports Africa",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.oxfam.org/en/tags/africa",
+        "description_courte": "Rapports sur inégalités économiques, pauvreté et répartition des richesses en Afrique."
+      },
+      "ECO-PRI-MCK-001": {
+        "nom_source": "McKinsey Africa Economic Insights",
+        "type_source": "Secteur_Prive",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Irrégulier",
+        "url_principale": "https://www.mckinsey.com/featured-insights/middle-east-and-africa",
+        "description_courte": "Analyses sectorielles et perspectives économiques du continent par McKinsey."
+      }
+    }
+  }

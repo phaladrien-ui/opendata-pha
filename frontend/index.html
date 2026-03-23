@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Africa Data Sources – Portail des données africaines</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Africa Data Sources</h1>
+  <div class="subtitle">Le portail centralisé des sources de données africaines</div>
+</header>
+
+<main class="container">
+  <!-- Stats rapides -->
+  <div class="quick-stats">
+    <div class="stat-card">
+      <span class="stat-number" id="totalDomains">0</span>
+      <span class="stat-label">Domaines</span>
+    </div>
+    <div class="stat-card">
+      <span class="stat-number" id="totalSources">0</span>
+      <span class="stat-label">Sources</span>
+    </div>
+    <div class="stat-card">
+      <span class="stat-number" id="totalOrganizations">0</span>
+      <span class="stat-label">Organisations</span>
+    </div>
+  </div>
+
+  <!-- Introduction -->
+  <div class="intro-section">
+    <h2>Explorez les données africaines par domaine</h2>
+    <p>Cette plateforme référence plus de <strong>280 sources de données</strong> fiables sur l'Afrique, organisées par domaine thématique. Chaque source est évaluée selon sa fiabilité et sa fréquence de mise à jour.</p>
+  </div>
+
+  <!-- Grille des domaines -->
+  <div id="domainsGrid" class="domains-grid">
+    <!-- Les domaines seront injectés ici -->
+  </div>
+
+  <!-- Loading -->
+  <div id="loading" class="loading hidden">Chargement des domaines...</div>
+</main>
+
+<footer>
+  <p>Africa Data Sources – Méta-base collaborative – 2026</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>

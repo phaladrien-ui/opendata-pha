@@ -1,0 +1,10 @@
+{
+    "nom": "Télécom & Numérique",
+    "description": "Sources de données sur les télécommunications et le numérique en Afrique : pénétration mobile, internet, infrastructures TIC, opérateurs, économie numérique.",
+    "total_sources": 25,
+    "statut": "actif",
+    "responsable": null,
+    "date_creation": "2026-03-18",
+    "derniere_mise_a_jour": "2026-03-18",
+    "tags": ["télécom", "mobile", "internet", "TIC", "numérique", "fibre", "4G", "5G", "opérateurs", "connectivité"]
+  }

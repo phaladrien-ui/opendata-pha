@@ -1,0 +1,10 @@
+{
+    "nom": "Agriculture & Climat",
+    "description": "Sources de données sur l'agriculture, la sécurité alimentaire, l'élevage, les ressources naturelles et le climat en Afrique.",
+    "total_sources": 25,
+    "statut": "actif",
+    "responsable": null,
+    "date_creation": "2026-03-18",
+    "derniere_mise_a_jour": "2026-03-18",
+    "tags": ["agriculture", "sécurité alimentaire", "élevage", "cultures", "climat", "météo", "sécheresse", "irrigation"]
+  }

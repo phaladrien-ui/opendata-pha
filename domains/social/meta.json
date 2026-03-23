@@ -1,0 +1,10 @@
+{
+    "nom": "Social, Emploi, Pauvreté",
+    "description": "Sources de données sur les conditions sociales en Afrique : emploi, chômage, pauvreté, inégalités, protection sociale, conditions de vie, développement humain.",
+    "total_sources": 27,
+    "statut": "actif",
+    "responsable": null,
+    "date_creation": "2026-03-18",
+    "derniere_mise_a_jour": "2026-03-18",
+    "tags": ["emploi", "chômage", "pauvreté", "inégalités", "protection sociale", "conditions de vie", "développement humain", "travail"]
+  }

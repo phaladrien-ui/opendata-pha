@@ -1,0 +1,148 @@
+{
+    "sources": {
+      "SANT-INT-WHO-001": {
+        "nom_source": "WHO Global Health Observatory - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.who.int/data/gho/data/countries",
+        "description_courte": "Statistiques sanitaires complètes : mortalité, morbidité, systèmes de santé, maladies infectieuses et non transmissibles pour tous les pays africains."
+      },
+      "SANT-INT-WHO-AFRO-001": {
+        "nom_source": "WHO AFRO - Regional Office for Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.afro.who.int/",
+        "description_courte": "Données et rapports sanitaires spécifiques à la région africaine : épidémies, vaccination, systèmes de santé."
+      },
+      "SANT-INT-UNAIDS-001": {
+        "nom_source": "UNAIDS Data - Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.unaids.org/en/dataanalysis",
+        "description_courte": "Statistiques détaillées sur le VIH/SIDA en Afrique : prévalence, incidence, traitement, mortalité."
+      },
+      "SANT-INT-GAVI-001": {
+        "nom_source": "GAVI Data - Vaccination Africa",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.gavi.org/programmes-impact/country-hub/africa",
+        "description_courte": "Données sur la vaccination, couverture vaccinale et impact des programmes en Afrique."
+      },
+      "SANT-INT-GFATM-001": {
+        "nom_source": "Global Fund Data Explorer",
+        "type_source": "Organisations_Internationales",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://data.theglobalfund.org/",
+        "description_courte": "Investissements et résultats dans la lutte contre le VIH, la tuberculose et le paludisme en Afrique."
+      },
+      "SANT-RES-IHME-001": {
+        "nom_source": "IHME Global Burden of Disease - Africa",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.healthdata.org/africa",
+        "description_courte": "Estimations détaillées de la charge de morbidité, mortalité, années de vie perdues par pays africain."
+      },
+      "SANT-RES-DHS-001": {
+        "nom_source": "DHS Program - Health Indicators",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Multi-pays Afrique",
+        "fiabilite_score": 5,
+        "frequence": "Irrégulier",
+        "url_principale": "https://dhsprogram.com/topics/Health.cfm",
+        "description_courte": "Indicateurs de santé maternelle, infantile, nutrition et paludisme issus des enquêtes démographiques."
+      },
+      "SANT-RES-APHRC-001": {
+        "nom_source": "APHRC Health Research",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Afrique subsaharienne",
+        "fiabilite_score": 5,
+        "frequence": "Projet",
+        "url_principale": "https://aphrc.org/health-systems/",
+        "description_courte": "Recherche sur les systèmes de santé, équité en santé et politiques sanitaires en Afrique."
+      },
+      "SANT-RES-MALARIA-001": {
+        "nom_source": "Malaria Atlas Project",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://malariaatlas.org/",
+        "description_courte": "Cartes haute résolution et données sur la prévalence, transmission et contrôle du paludisme en Afrique."
+      },
+      "SANT-RES-INDEPTH-001": {
+        "nom_source": "INDEPTH Network Health Data",
+        "type_source": "Universites_Recherche",
+        "pays_region": "Multi-pays Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Continue",
+        "url_principale": "https://www.indepth-network.org/",
+        "description_courte": "Données longitudinales sur la santé, mortalité et morbidité dans plusieurs sites africains."
+      },
+      "SANT-ONG-AMREF-001": {
+        "nom_source": "AMREF Health Africa Data",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Panafricain",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://amref.org/",
+        "description_courte": "Rapports et données sur les programmes de santé communautaire en Afrique."
+      },
+      "SANT-ONG-GATES-001": {
+        "nom_source": "Gates Foundation - Africa Health",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.gatesfoundation.org/our-work/programs/global-health",
+        "description_courte": "Investissements et résultats dans la santé mondiale avec focus sur l'Afrique."
+      },
+      "SANT-ONG-SAVE-001": {
+        "nom_source": "Save the Children - Africa Health",
+        "type_source": "ONG_Fondations",
+        "pays_region": "Afrique",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.savethechildren.org/",
+        "description_courte": "Données sur la santé maternelle, infantile et nutrition dans les programmes africains."
+      },
+      "SANT-INST-ZAF-001": {
+        "nom_source": "Statistics South Africa - Health",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Afrique du Sud",
+        "fiabilite_score": 5,
+        "frequence": "Annuel",
+        "url_principale": "https://www.statssa.gov.za/?page_id=735",
+        "description_courte": "Statistiques sanitaires officielles de l'Afrique du Sud : mortalité, causes de décès, système de santé."
+      },
+      "SANT-INST-NGA-001": {
+        "nom_source": "Nigeria Health Data Portal",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Nigeria",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://health.gov.ng/",
+        "description_courte": "Données sanitaires officielles du Nigeria : indicateurs de santé, épidémies, ressources."
+      },
+      "SANT-INST-KEN-001": {
+        "nom_source": "Kenya Health Information System",
+        "type_source": "Institutions_Officielles",
+        "pays_region": "Kenya",
+        "fiabilite_score": 4,
+        "frequence": "Annuel",
+        "url_principale": "https://www.health.go.ke/",
+        "description_courte": "Statistiques sanitaires du Kenya : couverture sanitaire, maladies prioritaires."
+      }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "nom": "Santé Publique",
+    "description": "Sources de données sur la santé en Afrique : mortalité, morbidité, maladies infectieuses, systèmes de santé, nutrition et santé maternelle et infantile.",
+    "total_sources": 16,
+    "statut": "actif",
+    "responsable": null,
+    "date_creation": "2026-03-18",
+    "derniere_mise_a_jour": "2026-03-18",
+    "tags": ["santé", "maladies", "mortalité", "VIH", "paludisme", "tuberculose", "vaccination", "nutrition", "santé maternelle"]
+  }

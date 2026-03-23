@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Africa Data Sources – Domaine</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <a href="index.html" class="back-link">← Retour à l'accueil</a>
+  <h1 id="domainTitle">Chargement...</h1>
+  <div class="subtitle" id="domainSubtitle">Sources de données</div>
+</header>
+
+<main class="container">
+  <!-- Description du domaine -->
+  <div class="domain-description-card" id="domainDescription">
+    <p>Chargement de la description...</p>
+  </div>
+
+  <!-- Tags et métadonnées -->
+  <div class="domain-metadata" id="domainMetadata"></div>
+
+  <!-- Filtres pour le domaine -->
+  <div class="domain-filters">
+    <div class="filter-group">
+      <label for="typeFilter">Type de source</label>
+      <select id="typeFilter">
+        <option value="all">Tous les types</option>
+        <option value="Institutions_Officielles">Institutions officielles</option>
+        <option value="Organisations_Internationales">Organisations internationales</option>
+        <option value="Universites_Recherche">Universités & recherche</option>
+        <option value="ONG_Fondations">ONG & fondations</option>
+        <option value="Secteur_Prive">Secteur privé</option>
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label for="searchInput">Rechercher</label>
+      <input type="text" id="searchInput" placeholder="Nom, description...">
+    </div>
+
+    <button id="exportCsv" class="btn-export">Exporter CSV</button>
+  </div>
+
+  <!-- Loading -->
+  <div id="loading" class="loading hidden">Chargement des sources...</div>
+
+  <!-- Statistiques du domaine -->
+  <div class="domain-stats" id="domainStats"></div>
+
+  <!-- Tableau des sources -->
+  <table class="source-table" id="sourcesTable">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Nom de la source</th>
+        <th>Type</th>
+        <th>Région</th>
+        <th>Score</th>
+        <th>Fréquence</th>
+        <th>URL</th>
+      </tr>
+    </thead>
+    <tbody id="tableBody"></tbody>
+  </table>
+
+  <div id="noResults" class="empty-state hidden">Aucune source trouvée</div>
+</main>
+
+<footer>
+  <p>Africa Data Sources – Méta-base collaborative – 2026</p>
+</footer>
+
+<script src="domain.js"></script>
+</body>
+</html>
