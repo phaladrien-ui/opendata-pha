@@ -1,19 +1,37 @@
 const fs = require('fs').promises;
 const path = require('path');
 
-// Pour Vercel, les domains sont dans un dossier spécifique
+// Fonction pour trouver le dossier domains où qu'il soit
 const getDomainsPath = () => {
-  // En production sur Vercel
+  // Vercel : le dossier est dans /var/task
   if (process.env.VERCEL) {
-    // Les fichiers sont dans /var/task/domains après le build
+    // Essayer plusieurs chemins possibles
+    const possiblePaths = [
+      path.join(process.cwd(), 'domains'),
+      path.join(process.cwd(), '..', 'domains'),
+      path.join('/var/task', 'domains'),
+      path.join('/var/task', '..', 'domains'),
+    ];
+    
+    for (const p of possiblePaths) {
+      try {
+        if (fs.existsSync(p)) {
+          console.log('✅ Found domains at:', p);
+          return p;
+        }
+      } catch (e) {
+        // continue
+      }
+    }
+    console.log('⚠️ Domains path not found, using:', path.join(process.cwd(), 'domains'));
     return path.join(process.cwd(), 'domains');
   }
+  
   // En développement local
   return path.join(__dirname, '../../domains');
 };
 
 const DOMAINS_PATH = getDomainsPath();
-
 console.log('📁 DOMAINS_PATH:', DOMAINS_PATH);
 
 async function readDomainFile(domainId, filename) {
@@ -33,17 +51,21 @@ async function getAllDomains() {
     const domains = [];
     
     for (const item of items) {
-      const stats = await fs.stat(path.join(DOMAINS_PATH, item));
-      if (stats.isDirectory()) {
-        const meta = await readDomainFile(item, 'meta.json');
-        if (meta) {
-          domains.push({
-            id: item,
-            name: meta.nom || item,
-            description: meta.description || '',
-            tags: meta.tags || []
-          });
+      try {
+        const stats = await fs.stat(path.join(DOMAINS_PATH, item));
+        if (stats.isDirectory()) {
+          const meta = await readDomainFile(item, 'meta.json');
+          if (meta) {
+            domains.push({
+              id: item,
+              name: meta.nom || item,
+              description: meta.description || '',
+              tags: meta.tags || []
+            });
+          }
         }
+      } catch (e) {
+        console.error(`Error reading domain ${item}:`, e.message);
       }
     }
     return domains;
